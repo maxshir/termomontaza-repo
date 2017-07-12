@@ -1,0 +1,7 @@
+.wp-full-overlay-sidebar {
+    width: 350px;
+}
+
+.wp-full-overlay.expanded {
+    margin-left: 350px;
+}

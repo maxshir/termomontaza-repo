@@ -1,0 +1,23 @@
+Version 1.0
+i)    Intial version Release
+
+Version 1.1
+i)    Theme check issue resolved.
+ii)   Solve other issue as per reviewer comment.
+
+Version 1.2
+i)    Made font visible on yellow backgrounds and vice versa.
+
+Version 1.3
+i)    Made changes as per reviewer comments.
+
+Version 1.4
+i)    Slider manage from page
+ii)   Front page settings
+iii)  Remove copyright text from footer
+iv)   Made changes as per reviewer comments.
+
+Version 1.5
+i)    Confiqure logo upload option.
+ii)   Making Header Information Changeable.
+iii)  All Default Widgets Formated Properly.

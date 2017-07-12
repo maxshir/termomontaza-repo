@@ -1,0 +1,28 @@
+Version 1.0
+i) Intial version Release
+
+Version 1.1
+i) Fixed several issues as reviewer pointed.
+
+Version 1.2
+i) Fixed several issues as reviewer pointed.
+
+Version 1.3
+i) Solved prefix issue on standard scripts and styles.
+
+Version 1.4
+i)   Removed upsell links and sections.
+ii)  Removed Copyright/Credit section.
+iii) Removed Custom Pagination.
+
+Version 1.5
+i)   Updates as per reviewer comments.
+
+Version 1.6
+i)   Solved header errror issues.
+
+Version 1.7
+i)   Set slider auto load.
+ii)  Configure add logo option.
+iii) Resolved WoocCommerce Issues.
+iv)  Resovled all default widgets displaying issues.
